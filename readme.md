@@ -1,4 +1,4 @@
-Gmail AI Agent with Streamlit and OpenAI
+**Gmail AI Agent with Streamlit and OpenAI**
 
 Welcome to the Gmail AI Agent, a cutting-edge application designed to enhance your email management experience by integrating Gmail API and OpenAI's powerful language models. This application allows you to search through your emails, generate intelligent responses, and manage your communications more effectively.
 
